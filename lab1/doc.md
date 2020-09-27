@@ -12,6 +12,7 @@
 ![enter image description here](https://github.com/dpalii/db/blob/master/lab1/lab1structure.png?raw=true)
 
 **Скріншоти запитів**
+
 ![enter image description here](https://github.com/dpalii/db/blob/master/lab1/screen1.png?raw=true)
 ![enter image description here](https://github.com/dpalii/db/blob/master/lab1/screen2.png?raw=true)
 ![enter image description here](https://github.com/dpalii/db/blob/master/lab1/screen4.png?raw=true)
